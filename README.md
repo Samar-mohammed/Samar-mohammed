@@ -1,4 +1,6 @@
-# Hi, I'm Samar 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi!%20I%20am%20Samar&fontSize=65&fontColor=ffffff&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2A5298&width=600&lines=AI+Specialist;Generative+AI+%26+LLMs;AI+Automation;Machine+Learning)](https://github.com/Samar-mohammed)
 
 ### AI Specialist | Generative AI • LLMs • AI Automation • Machine Learning
 
